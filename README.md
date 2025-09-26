@@ -28,7 +28,7 @@ Our experiments demonstrate significant improvements in grounding accuracy, show
 
 ## 📚 Documents
 
-Test scripts document: [chinese document](./docs/infer_doc.md)
+Test scripts document: [[en](./docs/infer_doc.md) [ch](./docs/infer_doc_zh.md)]
 
 ## ⚠️ Limitations
 
